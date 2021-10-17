@@ -1,0 +1,104 @@
+nav {
+    border-bottom: 1px  black;
+}
+.moayad{
+    justify-content: center;
+
+}
+img{
+    background-position:bottom;
+    justify-content: center;
+
+}
+.nav-top{
+padding-left: 20PX;
+}
+.nav{
+    padding-left: 12px;
+    color: black;
+    padding-top: 15px;
+
+}
+.crumbs{
+    margin-top: 25px;
+    padding-left: 50px;
+    margin-left: 10px;
+
+}
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 20px;
+    
+ }
+
+.crumb {
+    padding-left: 12px;
+  color: black;
+  padding-top: 15px;
+}
+.char{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background: rgb(141, 111, 209);
+    float: left;
+    margin: -25px;
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
+.chapetl{
+    margin: 5px auto;
+    padding: 0;
+
+}
+.center{
+    margin: auto;
+    width: 50%;
+    border: 3px ;
+    padding: 10px;
+    text-align: center;
+}
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;}
+    
+
+input.search{
+    width: 500px;
+    padding: 5px;
+    border-radius: 5em;
+   
+}
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    padding-bottom: 15px;
+    background: #f2f2f2;
+    text-align: right;
+  }
+.contry{
+    padding-right: 20px;
+    color: #70757a;
+
+}
+hr{
+    border-color: #e0e2e7;
+
+}
+.flexbox{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+
+}
+.lang{
+    direction: rtl;
+
+}
